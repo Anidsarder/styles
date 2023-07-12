@@ -1,0 +1,9 @@
+.first{
+    border: 1px solid red;
+}
+.welcome{
+    text-align: center;
+    height:800px;
+    background-image: url('../image/sun.jpg');
+    background-size: cover;
+}
